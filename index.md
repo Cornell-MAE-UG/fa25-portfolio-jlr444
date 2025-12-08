@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jessica Lynn Rakoczy
+title: site.name
 ---
 
 ## About Me
