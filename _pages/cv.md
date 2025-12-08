@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Jessica Lynn Rakoczy - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -20,11 +20,11 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  Graduation: May, 2023
 
-- **[High School Name]**  
+- **[Mattituck Jr/Sr High School]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Valedictorian | GPA: 100.34/100 | Graduation: [June, 2023]
 
 ---
 
