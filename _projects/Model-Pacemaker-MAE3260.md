@@ -5,6 +5,4 @@ description:  As a group in MAE3260 System Dynamics, our mutual interests guided
 image: /assets/images/block-diagram.jpg
 ---
 My contribution:
-[View PDF][def]
-
-[def]: assets/VDP-DYNAMICS-&-BLOCK-DIAGRAM.pdf
+[View PDF](assets/VDP-DYNAMICS-&-BLOCK-DIAGRAM.pdf)
