@@ -3,7 +3,7 @@ layout: project
 title: Torque Wrench Design
 description: Class Project with Finite Element Analysis
 technologies: [python, Ansys]
-image: /assets/images/stresscontour.png
+image: /assets/images/normal-stress.png
 ---
 
 ## Description
