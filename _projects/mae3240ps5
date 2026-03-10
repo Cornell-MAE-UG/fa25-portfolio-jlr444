@@ -2,7 +2,7 @@
 layout: project
 title: Finding Value in Heat Transfer Problem Set 5!
 description: Elaborating on the value of working through the heat transfer problems related to fins, heat sinks, and lumped capacitance.
-technologies: [Heat Transfer Analysis, Critical Thinking]
+technologies: [Fin Analysis, Thermal Resistance Networks, Lumped Capacitance]
 image: /assets/images/3240hw5.png
 ---
 <p>I found Problem Set 5 to be the most educational assignment in MAE 3240 thus far because it required applying multiple heat transfer concepts in an integrated, realistic context. Working through the cylindrical pin fin problem, from deriving the temperature distribution to analyzing an entire fin array and thermal resistance network, gave me a concrete understanding of how extended surfaces are used in engineering practice to enhance heat dissipation. Seeing how the fin array reduced the heater temperature by nearly 89°C made the theory feel tangible and meaningful.</p>
